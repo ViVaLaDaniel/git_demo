@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 sword and spear
 wall of shields
+=======
+sword and spear
+wall of shields
+standing strong
+on this their chose
+>>>>>>> 234838c9cf2c86772d2dcd2b178c461b6a1373dc
+
+
+form the lines 
+Shield by shield
